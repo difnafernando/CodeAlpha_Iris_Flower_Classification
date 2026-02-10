@@ -1,2 +1,2 @@
-# CodeAlpha_Iris_Flower_Classification
-Iris Flower Classification using Machine Learning (CodeAlpha Internship Task 1)
+# CodeAlpha_Iris Flower Classification
+01 month Data Science Internship @ CodeAlpha ( January 2025 ) 
